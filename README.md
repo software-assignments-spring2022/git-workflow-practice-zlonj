@@ -10,6 +10,8 @@ For a long time, MacOS has been regarded as the most user-friendly operating sys
 
 ## Comments ##
 
+Vanessa Chen: This article is pretty interesting to me because I've only ever used macOS and never noticed all these issues. Personally, I actually hate details like how pressing enter when selecting a file renames it. I would much rather have it open the file like on other operating systems. I also never noticed that the mouse on my MacBook disappears randomly pretty often, but since the author brought this up, I'm starting to notice that it's a bigger issue than I thought it was. This was an interesting read, and I'll probably consider going for a different operating system next time I buy a new laptop.
+
 Spenser Laier: I found myself agreeing with some of the points,
 like the one about the unintuitiveness of cutting files instead of copying
 and pasting them, and the at-times awkward navigation of the window
