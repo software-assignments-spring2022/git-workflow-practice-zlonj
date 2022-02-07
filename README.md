@@ -10,14 +10,17 @@ For a long time, MacOS has been regarded as the most user-friendly operating sys
 
 ## Comments ##
 
-Vanessa Chen: This article is pretty interesting to me because I've only ever used macOS and never noticed all these issues. Personally, I actually hate details like how pressing enter when selecting a file renames it. I would much rather have it open the file like on other operating systems. I also never noticed that the mouse on my MacBook disappears randomly pretty often, but since the author brought this up, I'm starting to notice that it's a bigger issue than I thought it was. This was an interesting read, and I'll probably consider going for a different operating system next time I buy a new laptop.
+_Lijie Xie_: ***I adore macOS.***
+I have to mentally disagree with this author who calls macOS a hot Garbage although he does make some good points. MacOS makes my working workflow very smooth in creative work between iPad and iPhone, and it's a hot garbage that's **_hot_** to look at, it's beautiful.
 
-Spenser Laier: I found myself agreeing with some of the points,
+_Vanessa Chen_: This article is pretty interesting to me because I've only ever used macOS and never noticed all these issues. Personally, I actually hate details like how pressing enter when selecting a file renames it. I would much rather have it open the file like on other operating systems. I also never noticed that the mouse on my MacBook disappears randomly pretty often, but since the author brought this up, I'm starting to notice that it's a bigger issue than I thought it was. This was an interesting read, and I'll probably consider going for a different operating system next time I buy a new laptop.
+
+_Spenser Laier_: I found myself agreeing with some of the points,
 like the one about the unintuitiveness of cutting files instead of copying
 and pasting them, and the at-times awkward navigation of the window
 manager. I didn't know it could be changed with apps like Amethyst,
 so I might look into that.
 
-_Keyanee Alexandre ka1974 Feb 4, 2022_
+_Keyanee Alexandre ka1974 Feb 4, 2022_:
 I've never really thought too much about what I didn't like about MacOS. Although members of my family prefer windows, I've always used a Mac. As I got older and began taking comp sci courses, I've found it easier to work with MacOS beccause of its unix-like OS. The command line is user friendly and hasn't given me as many problems as trying to use Windows Command Prompt. I also really enjoy MacOS because it allows me to get the most out of my other Apple devices. I can use my iPad as a second display and easily share files across my devices.
 
